@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mtjum7" target="blank"><img src="https://img.shields.io/twitter/follow/mtjum7?logo=twitter&style=for-the-badge" alt="mtjum7" /></a> </p>
 
-- 🔭 I’m currently working on TheGameCalendar.com [TheGameCalendar](http://thegamecalendar.com/)
+- 🔭 I’m currently working on [TheGameCalendar](http://thegamecalendar.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
